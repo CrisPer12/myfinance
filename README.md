@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/web/src/assets/logo-nlw-esports.svg" />
+  <img width="400px" src="https://github.com/CrisPer12/myfinance/blob/main/logo.PNG" />
   <br />
 </h1>
 <p align="center">
