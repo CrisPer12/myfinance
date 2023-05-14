@@ -1,38 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img width="400px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/web/src/assets/logo-nlw-esports.svg" />
+  <br />
+</h1>
+<p align="center">
+  <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">Licença</a>
+</p>
 
-## Getting Started
 
-First, run the development server:
+<div align="center">
+  <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/home.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/modal.JPG" />
+  <img  width="400px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/Record_2022-11-10-10-23-09_AdobeExpress.gif" />
+</div>
+
+## :page_facing_up: Descrição
+O Esports é um aplicação de gamers para gamers, desenvolvida durante o Next Level Week da Rocketseat.
+
+
+## 🛠 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias
+
+- [React.js](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ViteJs](https://vitejs.dev/guide/)
+- [Phosphor-Icons](https://phosphoricons.com/)
+- [GraphCMS](https://graphcms.com/)
+
+## :clipboard: Funcionalidades
+- [x] Listagem de anúncios de games.
+- [x] Criação de Anúncios.
+- [x] Compartilhamento de usuários Discords.
+
+
+## :closed_book: Instalação
+
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+# Clone este repositório.
+$ gh repo clone CrisPer12/NLW-Esports
+
+# Vá para a pasta server
+$ cd server
+
+# Vá para a pasta web
+$ cd web
+
+# Vá para a pasta mobile
+$ cd mobile
+
+# Instale as dependências
+$ npm install 
+
+# Execute aplicação server
+$ npm run dev
+
+# Execute aplicação web
+$ npm run dev
+
+# Execute aplicação mobile
+$ expo start
+
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## :memo: Licença
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is [MIT](./LICENSE.txt) licensed.
