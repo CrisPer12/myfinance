@@ -14,9 +14,10 @@
 
 
 <div align="center">
-  <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/home.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/modal.JPG" />
-  <img  width="400px" src="https://github.com/CrisPer12/NLW-Esports/blob/main/Record_2022-11-10-10-23-09_AdobeExpress.gif" />
+  <img  width="700px" src="https://github.com/CrisPer12/myfinance/blob/main/home.PNG" />
+  <img  width="700px" src="https://github.com/CrisPer12/myfinance/blob/main/rodape.PNG" />
+  <img  width="700px" src="https://github.com/CrisPer12/myfinance/blob/main/transacao%20lista.PNG" />
+  <img  width="700px" src="https://github.com/CrisPer12/myfinance/blob/main/transacao%20grid.PNG" />
 </div>
 
 ## :page_facing_up: Descrição
