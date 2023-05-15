@@ -21,23 +21,21 @@
 </div>
 
 ## :page_facing_up: Descrição
-O Esports é um aplicação de gamers para gamers, desenvolvida durante o Next Level Week da Rocketseat.
+O myFinance é um aplicação de financeira para gerencias suas transações diariamente, desenvolvida durante o evento de transformação DEV da COD3R.
 
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [ViteJs](https://vitejs.dev/guide/)
-- [Phosphor-Icons](https://phosphoricons.com/)
-- [GraphCMS](https://graphcms.com/)
+- [Mantine](https://mantine.dev/)
+- [Firebase](https://firebase.google.com/?gad=1&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfrvF9Qcg21ZWoWMuLYcEkfceqPnUdPA5dMl5_bWTE172PC_CAPc2DBoCsKAQAvD_BwE&gclsrc=aw.ds&hl=pt-br)
 
 ## :clipboard: Funcionalidades
-- [x] Listagem de anúncios de games.
-- [x] Criação de Anúncios.
-- [x] Compartilhamento de usuários Discords.
+- [x] Login com Google.
+- [x] Página de Perfil de Usuário.
+- [x] Cadastrar transações financeiras.
 
 
 ## :closed_book: Instalação
@@ -48,28 +46,16 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ gh repo clone CrisPer12/NLW-Esports
+$ gh repo clone [CrisPer12/NLW-Esports](https://github.com/CrisPer12/myfinance.git)
 
-# Vá para a pasta server
-$ cd server
-
-# Vá para a pasta web
-$ cd web
-
-# Vá para a pasta mobile
-$ cd mobile
+# Vá para a pasta myfinance
+$ cd myfinance
 
 # Instale as dependências
 $ npm install 
 
-# Execute aplicação server
+# Execute aplicação
 $ npm run dev
-
-# Execute aplicação web
-$ npm run dev
-
-# Execute aplicação mobile
-$ expo start
 
 
 ```
