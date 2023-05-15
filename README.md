@@ -46,7 +46,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ gh repo clone [CrisPer12/NLW-Esports](https://github.com/CrisPer12/myfinance.git)
+$ gh repo clone (https://github.com/CrisPer12/myfinance.git)
 
 # Vá para a pasta myfinance
 $ cd myfinance
