@@ -21,7 +21,7 @@
 </div>
 
 ## :page_facing_up: Descrição
-O myFinance é um aplicação financeira para gerencias suas transações diariamente, desenvolvida durante o evento de transformação DEV da COD3R.
+O myFinance é um aplicação financeira para gerenciar suas transações diariamente, desenvolvida durante o evento de transformação DEV da COD3R.
 
 
 ## 🛠 Tecnologias
